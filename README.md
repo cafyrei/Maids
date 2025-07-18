@@ -128,15 +128,6 @@ private static final String DBIDNumber = "root";
 private static final String DBPassword = ""; // default for XAMPP
 ```
 
----
-## 📷 Screenshots (Optional)
-
-> Add screenshots of your GUI here, such as:
-- Registration screen
-- Confirmation prompt
-- Database table view
----
-
 ## ✍️ License
 
 This project was for educational use only — feel free to improve or reuse for academic purposes.
