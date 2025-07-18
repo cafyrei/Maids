@@ -137,3 +137,12 @@ This project was for educational use only — feel free to improve or reuse for 
 > - "The code structure is *ugly* — compliance lang to pass OOP finals!"
 > - "We were students, okay 😭"
 > - "Still proud it worked from end to end!"
+
+## 👨‍💻 Developers
+
+- **Rafhielle Allen Alcabaza**
+- **Sean Paul Nieves**
+- **Rovic Christopher Sarthou**
+- **Breindelle Vincent Ayuso**
+
+> *All four helped build this in OOP class for survival, stress, and grades.*
