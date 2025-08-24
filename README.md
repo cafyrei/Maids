@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/DONE-%23009943?style=for-the-badge&logo=checkmarx&logoColor=%23FFF)
+
 # MAIDS: Medical Assistance and Information Dissemination System
 
 **Codename:** MAIDS
